@@ -104,7 +104,7 @@ export default function ProfileForm({ profile, onSave }: ProfileFormProps) {
               id="input-baby-name"
               type="text"
               required
-              placeholder="Contoh: Aruna Safira"
+              placeholder="Contoh: Ibrahim Azzubair"
               value={name}
               onChange={(e) => setName(e.target.value)}
               className="w-full px-4 py-2.5 rounded-xl border border-[#E2E8CE] focus:outline-none focus:ring-1 focus:ring-[#BC6C25] focus:border-[#BC6C25] text-xs text-[#5A5A40] bg-white font-sans"
