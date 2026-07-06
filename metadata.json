@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Ibu",
+  "description": "Aplikasi asisten ibu untuk mengurus bayi dengan pengingat jadwal menyusui, MPASI, catatan perkembangan imunisasi, dan rekomendasi harian pintar disesuaikan usia bayi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
